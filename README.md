@@ -9,7 +9,7 @@
     
 </p>
 <p align="center">
-    [![Screenshot-2022-09-27-094807.jpg](https://i.postimg.cc/15R1mc9W/Screenshot-2022-09-27-094807.jpg)](https://postimg.cc/rzHPg4RW)
+    <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/15R1mc9W/Screenshot-2022-09-27-094807.jpg' border='0' alt='Screenshot-2022-09-27-094807'/></a>
 </p>
 
 ### Get Started With your first Contrinution/Pull Request :
