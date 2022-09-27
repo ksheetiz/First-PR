@@ -22,7 +22,7 @@ Go to your own repository list and find the forked repository.
 Clone the repo:
 
 ```
-git clone https://github.com/ASVKVINAYAK/FirstPR.git
+git clone https://github.com/ksheetiz/First-PR.git
 ```
 
 In your local repository, run script/setup, move to the folder of the root directory
