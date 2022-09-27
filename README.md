@@ -1,4 +1,4 @@
-<h1 align="center">Hacktoberfest 2021</h1>
+<h1 align="center">Hacktoberfest 2022</h1>
 <p align="center">
     <a href="https://github.com/digitalocean/hacktoberfest/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/HacOkars/Hacktoberfest-2021"></a>
     <a href="https://github.com/digitalocean/hacktoberfest/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/HacOkars/Hacktoberfest-2021"></a>
@@ -9,7 +9,7 @@
     
 </p>
 <p align="center">
-    <img src="assets/images/logo-hacktoberfest-2021.svg" alt="Hacktoberfest-2020 Logo" width="350">
+    [![Screenshot-2022-09-27-094807.jpg](https://i.postimg.cc/15R1mc9W/Screenshot-2022-09-27-094807.jpg)](https://postimg.cc/rzHPg4RW)
 </p>
 
 ### Get Started With your first Contrinution/Pull Request :
