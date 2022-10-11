@@ -1,0 +1,42 @@
+html * {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* Bootstrap tweaks */
+
+body{
+  background-image: url("C:/MINI_PROJECT_6/Bidding_System/Auction_Items/background_image2.jpg");
+  background-size: contain;
+}
+
+.card{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-image:url("C:/MINI_PROJECT_6/Bidding_System/Auction_Items/auction.jpg");
+  background-size:1000px;
+  background-blend-mode:hard-light;
+  
+}
+
+.card-img-top {
+  width: 100%;
+  height: 16em;
+  object-fit:contain;
+}
+
+.list-group-horizontal > .list-group-item {
+  border: none;
+}
+
+#info-modal-img {
+  width: 100%;
+}
+
+.table {
+  margin-bottom: 0;
+}
+
+h1{
+  font-family: 'Times New Roman', Times, serif;
+  color: honeydew;
+}
